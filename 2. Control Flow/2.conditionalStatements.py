@@ -1,0 +1,10 @@
+temperature = 15
+
+if temperature > 30:
+    print("It's Warm")
+    print("Drink Water")
+elif temperature > 20:
+    print("It's Nice")
+else:
+    print("It's Cold")
+print("Done")
